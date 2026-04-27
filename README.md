@@ -1,26 +1,38 @@
 # 📊 E‑Commerce Analytics Dashboard
 
 ## Overview  
-The dashboard transforms complex business data into clear, actionable insights. It highlights sales performance, customer behavior, and market trends through interactive visuals and dynamic storytelling. Designed for recruiter and client readiness, the dashboard emphasizes professional branding, clean design, and concise metrics that make it easy to identify growth opportunities and operational challenges.  
+The dashboard provides a comprehensive view of online business performance, turning raw sales and customer data into clear, actionable insights. It highlights key metrics such as revenue growth, order trends, customer demographics, and regional performance, while also showcasing product mix and payment preferences. With its clean design and multi‑page storytelling, the dashboard makes it easy to identify top‑performing segments, track customer acquisition channels, and uncover opportunities for growth across markets.  
 
 ---
 
 ## 🔧 Tools & Technologies
-- **SQL**: Querying, joins, and preprocessing  
+- **SQL**: Querying, joins,preprocessing and analytics  
 - **Power BI**: Multi‑page dashboard design, slicers, and interactive visuals  
 - **DAX**: Custom measures for profitability, customer lifetime value, repeat purchase rate, and dynamic switching  
 
 ---
 
-## 📂 Data
-*(Placeholder – Add details about your dataset here. For example: source, tables, columns, transformations, and any preprocessing steps.)*
+## 📂 Info about Data  
+This project analyzes transactional data from a global e‑commerce platform specializing in digital subscriptions such as productivity suites and AI tools.  
+
+- **Data Size:** 50,000+ customer orders  
+- **Geographic Coverage:** 10 countries distributed across 5 major regions  
+- **Scope:** Includes customer demographics, product mix, acquisition channels, and payment methods to provide a holistic view of business performance  
 
 ---
 
 ## 📈 Insights & Q&A
-*(Placeholder – Add your key findings here. For example: revenue trends, customer segmentation, loyalty analysis, or answers to business questions like “Which region drives the highest profit?”)*
+#How many orders were placed, percentage of total orders and total revenue does each payment method represent?
+| Payment Method | Orders Placed | % of Total Orders | % of Total Revenue |
+|----------------|---------------|-------------------|--------------------|
+| Credit Card    | 26,340        | 54.00%            | 55.98%             |
+| Wire           | 2,390         | 4.00%             | 4.93%              |
+| Invoice        | 12,055        | 25.00%            | 24.54%             |
+| PayPal         | 7,215         | 15.00%            | 14.56%             |
+---
 
 ---
+
 
 ## 🚀 Features
 - Dynamic KPIs (Revenue, Cost, Profit, CLV, Repeat Purchase Rate)  
