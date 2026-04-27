@@ -22,7 +22,7 @@ This project analyzes transactional data from a global e‑commerce platform spe
 ---
 
 ## 📈 Insights & Q&A
-#Which channel bring in the most sales?
+##Which channel bring in the most sales?
 | Channel      | Total Orders | Total Sales ($)   |
 |--------------|--------------|-------------------|
 | Website      | 21,100       | 14,138,623.17     |
@@ -32,6 +32,7 @@ This project analyzes transactional data from a global e‑commerce platform spe
 | Partner      | 4,785        | 3,172,796.67      |
 
 The **Website channel** is the clear leader, generating the highest sales volume at **$14.1M** and accounting for the majority of total revenue. Direct Sales follows as the second‑largest contributor, while Reseller, Marketplace, and Partner channels play supporting roles in overall performance.  
+
 ---
 #How many orders were placed, percentage of total orders and total revenue does each payment method represent?
 | Payment Method | Orders Placed | % of Total Orders | % of Total Revenue |
