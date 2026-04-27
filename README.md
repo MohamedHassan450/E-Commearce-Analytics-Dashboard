@@ -34,6 +34,7 @@ Which channel bring in the most sales?
 The **Website channel** is the clear leader, generating the highest sales volume at **$14.1M** and accounting for the majority of total revenue. Direct Sales follows as the second‑largest contributor, while Reseller, Marketplace, and Partner channels play supporting roles in overall performance.  
 
 ---
+
 Which acquisition channel brings in the most customers?
 | Acquisition Channel | Customers (Count) | Total Revenue ($) |
 |---------------------|-------------------|-------------------|
@@ -43,9 +44,11 @@ Which acquisition channel brings in the most customers?
 | Email               | 8,005             | 5,316,975         |
 | Affiliate           | 5,359             | 3,581,228         |
 | Retail Media        | 2,264             | 1,448,094         |
+
 The **Organic channel** attracts the largest customer base (**13.4K customers**) and generates the highest revenue (**$9.0M**). Paid Search and Social follow as strong acquisition drivers, while Email provides steady contributions. Affiliate and Retail Media remain smaller but still add value to overall customer acquisition.  
 
 ---
+
 Which country generates the highest sales and order volume?
 | Country        | Total Orders | Total Sales ($)   |
 |----------------|--------------|-------------------|
@@ -63,6 +66,7 @@ Which country generates the highest sales and order volume?
 The **United States** leads by a wide margin, contributing the highest revenue (**$8.57M**) and the largest number of orders (**14.7K**). The **United Kingdom** follows as the second‑largest market, while Canada and Australia show nearly equal performance. European countries like Germany, France, and Spain provide steady contributions, whereas Brazil and the Philippines represent emerging but smaller markets.  
 
 ---
+
 How many orders were placed, percentage of total orders and total revenue does each payment method represent?
 | Payment Method | Orders Placed | % of Total Orders | % of Total Revenue |
 |----------------|---------------|-------------------|--------------------|
@@ -74,39 +78,49 @@ How many orders were placed, percentage of total orders and total revenue does e
 Credit Card Dominating each of order volume and revenue share. The second is Invoice with second highest share of revenue
 
 ---
+
 Which age group contributes the most to revenue?
 
 The **25–34 age band** drives the highest revenue share, contributing **$8.2M**. This group significantly outperforms other demographics, making it the most valuable customer segment for overall sales performance.
 
 ---
+
 Which customer segment contributes the most to revenue?
 
 The **Loyal Customer segment** drives the majority of sales, contributing **65.04%** of total revenue (≈ $20.7M). This group significantly outperforms Elite and Repeat customers, making it the most impactful segment for overall business performance.  
 
 --
+
 Which customer segment drives the highest revenue?
 
 The **Consumer segment** contributes the most to overall sales, generating **$14.9M**. This segment significantly outperforms SOHO, SMB, and Enterprise customers, making it the primary driver of revenue across all segments.  
 
-
 ---
 
-## 🚀 Features
-- Dynamic KPIs (Revenue, Cost, Profit, CLV, Repeat Purchase Rate)  
-- Clean, recruiter‑ready chart subtitles and labels  
-- Multi‑page storytelling (Segments, Regions, Channels, Products, Orders vs Invoices, etc.)  
-- Interactive filters for geography, payment methods, and customer types  
+## 🚀 Recommendations to Enhance Sales  
+
+1. **Focus on High‑Value Segments**  
+   - Target the **25–34 age group** and **Consumer segment**, which drive the largest share of revenue.  
+   - Create tailored promotions, bundles, and loyalty programs to maximize retention and upsell opportunities.  
+
+2. **Strengthen Loyal Customer Base**  
+   - With **65% of revenue from Loyal Customers**, invest in VIP programs, referral incentives, and exclusive offers.  
+   - Encourage repeat purchases and deepen engagement with personalized rewards.  
+
+3. **Optimize Acquisition Channels**  
+   - Enhance **Organic search** through SEO and content marketing, as it brings in the largest customer base.  
+   - Scale **Paid Search and Social campaigns** to capture incremental growth.  
+
+4. **Streamline Payment Preferences**  
+   - Ensure a frictionless checkout for **Credit Card users**, the dominant payment method.  
+   - Improve PayPal and Invoice experiences to capture customers preferring alternative methods.  
+
+5. **Regional Strategy**  
+   - Prioritize localized campaigns in the **United States and United Kingdom**, the top revenue markets.  
+   - Explore growth opportunities in emerging markets like **Brazil and the Philippines** with targeted promotions.  
+
+6. **Product Mix Expansion**  
+   - Bundle and cross‑sell **top‑performing products** (AI tools, productivity add‑ons).  
+   - Reposition or phase out underperforming products to maintain a clean, profitable portfolio.  
 
 ---
-
-## 📌 Usage
-1. Clone the repository  
-2. Open the `.pbix` file in Power BI Desktop  
-3. Connect to your SQL database or sample dataset  
-4. Explore the dashboard pages and slicers  
-
----
-
-## 📝 Notes
-This dashboard is optimized for **professional presentation** on GitHub and LinkedIn.  
-It demonstrates technical workflow (SQL + DAX) and business storytelling for recruiter/client readiness.
