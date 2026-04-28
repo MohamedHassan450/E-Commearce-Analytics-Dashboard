@@ -7,6 +7,7 @@ The dashboard provides a comprehensive view of online business performance, turn
 
 <img width="1415" height="791" alt="15" src="https://github.com/user-attachments/assets/18f4db43-4b0b-4803-97c9-691d2e995104" />
 <img width="1413" height="791" alt="16" src="https://github.com/user-attachments/assets/5f60672f-43cb-419e-a501-81a30eb0300d" />
+<img width="1415" height="798" alt="16" src="https://github.com/user-attachments/assets/3e535865-ea03-420d-9bbf-5ae91b73e708" />
 <img width="1414" height="794" alt="17" src="https://github.com/user-attachments/assets/c0179f6c-d48e-4284-a132-d5c5ed6d078c" />
 
 ---
